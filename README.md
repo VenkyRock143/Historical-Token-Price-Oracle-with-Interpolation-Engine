@@ -61,7 +61,7 @@ This project provides a **real-time and historical price oracle** for tokens usi
 ---
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/historical-price-oracle.git
+git clone https://github.com/VenkyRock143/Historical-Token-Price-Oracle-with-Interpolation-Engin
 cd historical-price-oracle
 
 2. Setup Backend
@@ -73,11 +73,13 @@ npm install
 npm run dev
 
 📌 Backend .env Example
+```sh
 PORT=4000
 MONGO_URI=mongodb://localhost:27017/token_oracle
 REDIS_URL=redis://localhost:6379
 ALCHEMY_API_KEY=your_alchemy_key_here
 QUEUE_NAME=price-fetch-queue
+```
 
 3. Setup Frontend
 cd ../frontend
