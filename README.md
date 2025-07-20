@@ -30,7 +30,7 @@ This project provides a **real-time and historical price oracle** for tokens usi
 │ └── package.json
 ├── README.md
 └── .gitignore
----
+```
 
 ## 🚀 Features
 
