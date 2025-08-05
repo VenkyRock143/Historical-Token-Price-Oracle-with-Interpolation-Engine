@@ -61,7 +61,7 @@ This project provides a **real-time and historical price oracle** for tokens usi
 ---
 
 ### 1. Clone the Repository
-git clone https://github.com/VenkyRock143/Historical-Token-Price-Oracle-with-Interpolation-Engin
+git clone https://github.com/VenkyRock143/Historical-Token-Price-Oracle-with-Interpolation-Engine
 cd historical-price-oracle
 
 2. Setup Backend
